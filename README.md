@@ -21,13 +21,6 @@ Engineered a fault-tolerant "Text-to-UI" generation pipeline using Python, Strea
 
 ---
 
-## 🚀 Demo
-
-![VerbaView Dashboard Screenshot](assets/demo_preview.png)
-*(Note: Please verify the path to your screenshot)*
-
----
-
 ## 🏗️ Engineering Architecture
 
 VerbaView is designed to solve the "Black Box" problem of generative UI by implementing a robust engineering pipeline rather than just wrapping an API.
